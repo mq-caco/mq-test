@@ -1,2 +1,4 @@
 # mq-test
-testing repo
+
+Just a testing repository.
+Repositorio sólo para pruebas.
